@@ -4,20 +4,17 @@ package H4;
  * Created by Robin on 20/09/2016.
  */
 
+import java.applet.Applet;
 import java.awt.*;
-import java.applet.*;
 
-public class H43 extends Applet
-{
-    public void init()
-    {
+public class H43 extends Applet {
+    public void init() {
         this.setSize(500, 500);
         setBackground(Color.white);
     }
 
-    public void paint(Graphics g)
-    {
-        Color FlagRed = new Color(174,28,40);
+    public void paint(Graphics g) {
+        Color FlagRed = new Color(174, 28, 40);
         Color FlagWhite = new Color(255, 255, 255);
         Color FlagBlue = new Color(33, 70, 139);
         g.drawRect(100, 100, 150, 99);

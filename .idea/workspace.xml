@@ -3,28 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5110067b-6a8d-4c3a-ba25-6fe37248d48d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H10/H101.java" afterPath="$PROJECT_DIR$/Opdrachten/H10/H101.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H10/H102.java" afterPath="$PROJECT_DIR$/Opdrachten/H10/H102.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H10/H103.java" afterPath="$PROJECT_DIR$/Opdrachten/H10/H103.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H10/H104.java" afterPath="$PROJECT_DIR$/Opdrachten/H10/H104.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H10/H105.java" afterPath="$PROJECT_DIR$/Opdrachten/H10/H105.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H2/H22.java" afterPath="$PROJECT_DIR$/Opdrachten/H2/H22.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H4/H41.java" afterPath="$PROJECT_DIR$/Opdrachten/H4/H41.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H4/H42.java" afterPath="$PROJECT_DIR$/Opdrachten/H4/H42.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H4/H43.java" afterPath="$PROJECT_DIR$/Opdrachten/H4/H43.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H4/H46.java" afterPath="$PROJECT_DIR$/Opdrachten/H4/H46.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H4/H47.java" afterPath="$PROJECT_DIR$/Opdrachten/H4/H47.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H4/HOpdracht.java" afterPath="$PROJECT_DIR$/Opdrachten/H4/HOpdracht.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H5/H51.java" afterPath="$PROJECT_DIR$/Opdrachten/H5/H51.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H5/H52.java" afterPath="$PROJECT_DIR$/Opdrachten/H5/H52.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H6/H61.java" afterPath="$PROJECT_DIR$/Opdrachten/H6/H61.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H6/H62.java" afterPath="$PROJECT_DIR$/Opdrachten/H6/H62.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H6/H63.java" afterPath="$PROJECT_DIR$/Opdrachten/H6/H63.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H6/H6Opdracht.java" afterPath="$PROJECT_DIR$/Opdrachten/H6/H6Opdracht.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H8/H81.java" afterPath="$PROJECT_DIR$/Opdrachten/H8/H81.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H8/H82.java" afterPath="$PROJECT_DIR$/Opdrachten/H8/H82.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H8/H83.java" afterPath="$PROJECT_DIR$/Opdrachten/H8/H83.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdrachten/H8/H8Opdracht.java" afterPath="$PROJECT_DIR$/Opdrachten/H8/H8Opdracht.java" />
     </list>
     <ignored path="Projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,7 +47,6 @@
       <list>
         <option value="$PROJECT_DIR$/Opdrachten/H2/FirstJavaApplet.java" />
         <option value="$PROJECT_DIR$/Opdrachten/H2/H22.java" />
-        <option value="$PROJECT_DIR$/Opdrachten/H4/H41.java" />
         <option value="$PROJECT_DIR$/Playground/TestGUI.form" />
         <option value="$PROJECT_DIR$/Playground/GUITest/Test.form" />
         <option value="$PROJECT_DIR$/Opdrachten/H4/H42.java" />
@@ -101,6 +80,7 @@
         <option value="$PROJECT_DIR$/Opdrachten/H11/H113.java" />
         <option value="$PROJECT_DIR$/Opdrachten/H13/H134.java" />
         <option value="$PROJECT_DIR$/Opdrachten/H13/H13Opdracht.java" />
+        <option value="$PROJECT_DIR$/Opdrachten/H4/H41.java" />
       </list>
     </option>
   </component>
@@ -1247,7 +1227,7 @@
       <workItem from="1480670456612" duration="281000" />
       <workItem from="1480671446114" duration="1088000" />
       <workItem from="1481206422223" duration="442000" />
-      <workItem from="1481278415816" duration="1959000" />
+      <workItem from="1481278415816" duration="2074000" />
     </task>
     <task id="LOCAL-00001" summary="Placing in Git">
       <created>1473838802711</created>
@@ -1333,11 +1313,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481285930189</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updated">
+      <created>1481286072572</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1481286072572</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43757000" />
+    <option name="totallyTimeSpent" value="43872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1391,9 +1378,9 @@
     <MESSAGE value="Added H6" />
     <MESSAGE value="Added H6Opdracht" />
     <MESSAGE value="Added H8" />
-    <MESSAGE value="Updated" />
     <MESSAGE value="Added H13 &amp; H14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added H13 &amp; H14" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1410,13 +1397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/H2/H22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1453,13 +1433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/H4/H41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1640,14 +1613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/H4/H43.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/H10/H101.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1704,6 +1669,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/H4/H41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/H2/H22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/H4/H43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding />
         </state>
       </provider>
